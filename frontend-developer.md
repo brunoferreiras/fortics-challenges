@@ -32,6 +32,11 @@ O front-end deve ser construído utilizando a biblioteca React, [seguindo as esp
 - Relatório de perfomance (Ex: Lighthouse)
 - Código modular
 
+# Recomendações
+- Use boas práticas de programação
+- Use as [melhores práticas do git](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices), com mensagens claras
+- Se possível, grave um vídeo ou um gif demonstrando o funcionamento
+
 # Processo de submissão
 O desafio deve está disponível pelo [GitHub](https://github.com/). As bibliotecas ou pacotes de terceiros devem estar evidenciadas na documentação. 
 
